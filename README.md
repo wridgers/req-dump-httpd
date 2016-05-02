@@ -4,7 +4,7 @@ A simple httpd for debug/testing purposes. Responds to every request by writing 
 
 ## Install
 
-    $ go install github.com/wridgers/req-dump-httpd
+    $ go get github.com/wridgers/req-dump-httpd
 
 ## Usage
 
